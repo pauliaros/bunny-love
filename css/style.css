@@ -1,0 +1,51 @@
+/*font-family: 'Prompt', sans-serif;
+font-family: 'Baloo Paaji', cursive;*/
+*{
+	margin:0;
+	padding: 0;
+}
+.logo{ 
+ 	float: left;
+ 	padding-top: 7px;
+ 	padding-left: 90px;
+}
+
+nav{
+	background-color: #1F879A;
+	width: 100%;
+	height: 80px;
+	position: fixed;
+	z-index: 1;
+}
+
+.logo-titulo{
+	font-size: 30px;
+	color: whitesmoke;
+	font-family: 'Baloo Paaji', cursive;
+
+}
+
+.logo-titulo2{
+	font-size: 30px;
+	color: #FF5555;
+	font-family: 'Baloo Paaji', cursive;
+
+}
+
+.menu ul li{
+	display: inline-block;
+	margin-top: 20px;
+	
+	
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: whitesmoke;
+	font-family: 'Prompt', sans-serif;
+	margin-left: 80px;
+	padding: 5px;
+}
+
+
+
